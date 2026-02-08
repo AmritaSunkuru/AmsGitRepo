@@ -10,4 +10,5 @@ And verify user has ability to enter promo code and place the order
 Examples:
 |VegetableName|Quantity|
 |Tom          |3       |
+|Cabbage      |
 

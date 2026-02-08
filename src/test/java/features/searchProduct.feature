@@ -9,3 +9,4 @@ Examples:
 |VegetableName|
 |Tom|
 |Beet|
+|Yam|
